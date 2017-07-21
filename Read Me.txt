@@ -1,3 +1,9 @@
-I made this to send me alerts of when ether goes up/down +10%, you'll have to update the email/password/phone number for your own credentials 
+I made this to send me alerts of when ether goes up/down 6% or more, you'll have to update the email/password/phone number for your own credentials 
 
 This checks every hour from when starting the application
+
+
+Version 1.1:
+    >Fixed login timeout issue 
+    >changed threshold from 10% to 6%
+    >fixed math 
